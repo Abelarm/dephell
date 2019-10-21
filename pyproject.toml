@@ -153,6 +153,8 @@ requests = "*"
 setuptools = "*"
 tomlkit = "*"
 yaspin = "*"
+flatdict = "*"
+tabulate =  "*"
 
 # optional
 aiofiles = {optional = true,version = "*"}
